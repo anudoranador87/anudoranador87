@@ -41,14 +41,33 @@ Este no es un portfolio al uso. Es la documentación **pública y diaria** de mi
 - **Idiomas:** Español (nativo), Inglés (B2 - certificado)
 
 ---
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+## 🛠️ Mi Stack Tecnológico
+
+### 🎨 Frontend & UI Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Flexbox & Grid](https://img.shields.io/badge/Layout-Flex%20%26%20Grid-blueviolet?style=flat-square)
+![Responsive Design](https://img.shields.io/badge/Design-Responsive-success?style=flat-square)
+
+### 🧰 Herramientas & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=flat-square&logo=gnumetadatacleaner&logoColor=white)
+
+### 🤝 Soft Skills (Estrategia y Gestión)
+* **Gestión de Equipos & Crisis:** Capacidad de liderazgo y toma de decisiones rápidas bajo presión, transpuesta de entornos críticos (aeropuertos/hoteles) al ciclo de vida del software.
+* **Resolución de Problemas (Debugging Mental):** Enfoque analítico para descomponer problemas complejos en tareas pequeñas y ejecutables.
+* **Adaptabilidad & Autodidactismo:** Compromiso real con el aprendizaje continuo demostrado en el **Reto 365 días**.
+* **Comunicación Técnica:** Capacidad para documentar procesos y colaborar de forma efectiva en equipos multiculturales (Bilingüe Español/Inglés B2).
+* 
+
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=anudoranador87&show_icons=true&theme=dark)
 
 ## 📫 ¿Hablamos?
 
-Estoy abierto a conectar con otros desarrolladores, reclutadores técnicos, y cualquier persona que quiera seguir este viaje.
+Actualmente buscando mi primera oportunidad como Junior Front-End. Si buscas a alguien con disciplina de hierro y pasión por el código, ¡conectemos!
 
 - **LinkedIn:** [Jose Maria Aparicio](https://linkedin.com/in/anudoranador87) 
 - **Email:** [josemaparicio87@gmail.com]
