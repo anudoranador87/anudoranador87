@@ -63,7 +63,12 @@ Este no es un portfolio al uso. Es la documentación **pública y diaria** de mi
 * **Comunicación Técnica:** Capacidad para documentar procesos y colaborar de forma efectiva en equipos multiculturales (Bilingüe Español/Inglés B2).
 * 
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=anudoranador87&show_icons=true&theme=dark)
+### 📊 Mis Estadísticas de GitHub
+
+![Estadísticas de Jose](https://github-readme-stats.vercel.app/api?username=anudoranador87&show_icons=true&theme=dark&hide_border=true&align=center)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anudoranador87&layout=compact&theme=dark&hide_border=true&align=center)
+
 
 ## 📫 ¿Hablamos?
 
