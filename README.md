@@ -1,6 +1,6 @@
 # Jose Aparicio — Front-End Developer
 
-🇬🇧 [English](#english) · 🇪🇸 [Español](#español)
+🇬🇧 [English](#english) · 🇪🇸 [Español](#espanol)
 
 ---
 
@@ -124,7 +124,7 @@ This is not a tutorial project. It solves a **real operational problem** from my
 ---
 ---
 
-<a id="español"></a>
+<a id="espanol"></a>
 
 # 👋 Hola, soy Jose Aparicio
 > *"La lógica es mi superpoder. La sintaxis es solo la herramienta."*
