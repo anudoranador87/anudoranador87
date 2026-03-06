@@ -4,7 +4,7 @@
 
 ---
 
-<a name="english"></a>
+<a id="english"></a>
 
 # 👋 Hi, I'm Jose Aparicio
 > *"Logic is my superpower. Syntax is just the tool."*
@@ -124,7 +124,7 @@ This is not a tutorial project. It solves a **real operational problem** from my
 ---
 ---
 
-<a name="español"></a>
+<a id="español"></a>
 
 # 👋 Hola, soy Jose Aparicio
 > *"La lógica es mi superpoder. La sintaxis es solo la herramienta."*
