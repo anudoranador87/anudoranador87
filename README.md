@@ -46,6 +46,7 @@
 💍 Mangata & Gallo | Micro-interactions, typography hierarchy, UI polish | Advanced CSS · Responsive | [Demo](https://anudoranador87.github.io/mangata-gallo-jewelry/) · [Repo](https://github.com/anudoranador87/mangata-gallo-jewelry) |
 🃏 We Playing Cards | JS logic, `=` vs `===`, array manipulation | JavaScript · Functions | [Demo](https://anudoranador87.github.io/we-playing-cards/) · [Repo](https://github.com/anudoranador87/we-playing-cards) |
 ⚙️ EquiShift Málaga | Modular rotation algorithm, real business logic, OOP | JavaScript · Data Architecture | [Repo](https://github.com/anudoranador87/EquiShift-M-laga-2026-Algoritmo-de-cuadrantes-equitativos-con-JS) |
+📓 365-Day Dev Journey | Daily learning log: bugs, solutions, and breakthroughs | HTML · CSS · JS | [Read Log](https://anudoranador87.github.io/Mi-Camino-Web-365/)
 
 ---
 
@@ -97,7 +98,7 @@ This is not a tutorial project. It solves a **real operational problem** from my
 - **Day 27 Feb**: Native dark mode with CSS variables & DOM manipulation 🌙
 - **Day 1 Mar**: Positive saturation → strategic rest for concept assimilation 🛑
 
-📓 [Read the full Dev Log →](#)
+📓 [Read the full Dev Log →](https://anudoranador87.github.io/Mi-Camino-Web-365/)
 
 ---
 
@@ -114,7 +115,7 @@ This is not a tutorial project. It solves a **real operational problem** from my
 
 ## 📫 Let's Connect
 
-💼 [LinkedIn](#)
+💼 [LinkedIn](https://www.linkedin.com/in/joseaparicio87/)
 📧 josemaparicio87@gmail.com
 
 > *Open to junior front-end opportunities — remote, hybrid, or relocation.*
@@ -161,11 +162,11 @@ This is not a tutorial project. It solves a **real operational problem** from my
 
 | Proyecto | Qué aprendí | Stack | Demo |
 |---|---|---|---|
-| ☕ Campus & Crema | Flexbox, debug CSS, responsive | HTML · CSS · Flexbox | [Demo](#) · [Repo](#) |
-| 💍 Mangata & Gallo | Micro-interacciones, tipografía, UI | CSS avanzado · Responsive | [Demo](#) · [Repo](#) |
-| 🃏 We Playing Cards | Lógica JS, `=` vs `===`, arrays | JavaScript · Funciones | [Demo](#) · [Repo](#) |
-| ⚙️ EquiShift Málaga | Algoritmo de rotación modular, lógica real de negocio, OOP | JavaScript · Arquitectura de datos | [Repo](#) |
-| 📓 Mi-Camino-Web-365 | Bitácora diaria de errores y soluciones | HTML · CSS · JS | [Ver Log](#) |
+| ☕ Campus & Crema | Flexbox, debug CSS, responsive | HTML · CSS · Flexbox | [Demo](https://anudoranador87.github.io/Campus-Crema/) · [Repo](https://github.com/anudoranador87/Campus-Crema) |
+| 💍 Mangata & Gallo | Micro-interacciones, tipografía, UI | CSS avanzado · Responsive | [Demo](https://anudoranador87.github.io/mangata-gallo-jewelry/) · [Repo](https://github.com/anudoranador87/mangata-gallo-jewelry) |
+| 🃏 We Playing Cards | Lógica JS, `=` vs `===`, arrays | JavaScript · Funciones | [Demo](https://anudoranador87.github.io/we-playing-cards/) · [Repo](https://github.com/anudoranador87/we-playing-cards) |
+| ⚙️ EquiShift Málaga | Algoritmo de rotación modular, lógica real de negocio, OOP | JavaScript · Arquitectura de datos | [Repo](https://github.com/anudoranador87/EquiShift-M-laga-2026-Algoritmo-de-cuadrantes-equitativos-con-JS) |
+| 📓 Mi-Camino-Web-365 | Bitácora diaria de errores y soluciones | HTML · CSS · JS | [Ver Log](https://anudoranador87.github.io/Mi-Camino-Web-365/) |
 
 ---
 
@@ -215,7 +216,7 @@ Este no es un proyecto de tutorial. Resuelve un **problema operativo real** de m
 - **Día 27 Feb**: Modo oscuro nativo con variables CSS y DOM 🌙
 - **Día 1 Mar**: Saturación positiva → vacaciones para asimilar conceptos 🛑
 
-📓 [Ver Bitácora completa →](#)
+📓 [Ver Bitácora completa →](https://anudoranador87.github.io/Mi-Camino-Web-365/)
 
 ---
 
@@ -232,7 +233,7 @@ Este no es un proyecto de tutorial. Resuelve un **problema operativo real** de m
 
 ## 📫 Contacto
 
-💼 [LinkedIn](#)
+💼 [LinkedIn](https://www.linkedin.com/in/joseaparicio87)
 📧 josemaparicio87@gmail.com
 
 > *Disponible para oportunidades junior en front-end — remoto, híbrido o presencial.*
