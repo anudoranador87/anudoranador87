@@ -42,11 +42,10 @@
 
 | Project | What I learned | Stack | Live Demo |
 |---|---|---|---|
-| ☕ Campus & Crema | Flexbox, CSS debugging, responsive layout | HTML · CSS · Flexbox | [Demo](#) · [Repo](#) |
-| 💍 Mangata & Gallo | Micro-interactions, typography hierarchy, UI polish | Advanced CSS · Responsive | [Demo](#) · [Repo](#) |
-| 🃏 We Playing Cards | JS logic, `=` vs `===`, array manipulation | JavaScript · Functions | [Demo](#) · [Repo](#) |
-| ⚙️ EquiShift Málaga | Modular rotation algorithm, real business logic, OOP | JavaScript · Data Architecture | [Repo](#) |
-| 📓 365-Day Dev Journey | Daily learning log: bugs, solutions, and breakthroughs | HTML · CSS · JS | [Read Log](https://anudoranador87.github.io/Mi-Camino-Web-365/)|
+☕ Campus & Crema | Flexbox, CSS debugging, responsive layout | HTML · CSS · Flexbox | [Demo](https://anudoranador87.github.io/Campus-Crema/) · [Repo](https://github.com/anudoranador87/Campus-Crema) |
+💍 Mangata & Gallo | Micro-interactions, typography hierarchy, UI polish | Advanced CSS · Responsive | [Demo](https://anudoranador87.github.io/mangata-gallo-jewelry/) · [Repo](https://github.com/anudoranador87/mangata-gallo-jewelry) |
+🃏 We Playing Cards | JS logic, `=` vs `===`, array manipulation | JavaScript · Functions | [Demo](https://anudoranador87.github.io/we-playing-cards/) · [Repo](https://github.com/anudoranador87/we-playing-cards) |
+⚙️ EquiShift Málaga | Modular rotation algorithm, real business logic, OOP | JavaScript · Data Architecture | [Repo](https://github.com/anudoranador87/EquiShift-M-laga-2026-Algoritmo-de-cuadrantes-equitativos-con-JS) |
 
 ---
 
