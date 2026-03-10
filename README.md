@@ -46,7 +46,7 @@
 | 💍 Mangata & Gallo | Micro-interactions, typography hierarchy, UI polish | Advanced CSS · Responsive | [Demo](#) · [Repo](#) |
 | 🃏 We Playing Cards | JS logic, `=` vs `===`, array manipulation | JavaScript · Functions | [Demo](#) · [Repo](#) |
 | ⚙️ EquiShift Málaga | Modular rotation algorithm, real business logic, OOP | JavaScript · Data Architecture | [Repo](#) |
-| 📓 365-Day Dev Journey | Daily learning log: bugs, solutions, and breakthroughs | HTML · CSS · JS | [Read Log](#) |
+| 📓 365-Day Dev Journey | Daily learning log: bugs, solutions, and breakthroughs | HTML · CSS · JS | [Read Log](https://anudoranador87.github.io/Mi-Camino-Web-365/)|
 
 ---
 
