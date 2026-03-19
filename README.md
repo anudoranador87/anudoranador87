@@ -12,7 +12,12 @@
 ### From Hospitality Management to Front-End Development 🚀
 
 ---
+## 🌐 My Web CV / Portfolio
 
+💻 Check my **interactive web portfolio / CV**: [Jose Aparicio — Front-End Portfolio](https://anudoranador87.github.io/JoseMaria-Frondtend-Portfolio/)  
+
+> Fully responsive, easy-to-navigate, highlighting **projects, skills, and daily learning**.  
+> First thing recruiters see — interactive and live!
 ## 🌟 About Me
 
 - 🏢 **8+ years** managing teams and resolving high-pressure crises in the hospitality sector (UK & Spain)
@@ -21,6 +26,8 @@
 - 🧠 Career changer who understands that **attitude and problem-solving** outlast syntax
 
 ---
+
+
 
 ## 🛠️ Stack & Tools
 
@@ -141,6 +148,11 @@ This is not a tutorial project. It solves a **real operational problem** from my
 - 🧠 Career changer que entiende que la **actitud y el pensamiento crítico** superan a la sintaxis
 
 ---
+## 🌐 Mi CV Web Interactivo
+
+💻 [Jose Aparicio — Portafolio Web](https://anudoranador87.github.io/JoseMaria-Frondtend-Portfolio/)  
+
+> Totalmente responsive y fácil de navegar, con **proyectos, skills y log diario**.
 
 ## 🛠️ Stack & Herramientas
 
