@@ -12,22 +12,23 @@
 ### From Hospitality Management to Front-End Development 🚀
 
 ---
+
 ## 🌐 My Web CV / Portfolio
 
-💻 Check my **interactive web portfolio / CV**: [Jose Aparicio — Front-End Portfolio](https://anudoranador87.github.io/JoseMaria-Frondtend-Portfolio/)  
+💻 [Jose Aparicio — Front-End Portfolio](https://anudoranador87.github.io/JoseMaria-Frondtend-Portfolio/)
 
-> Fully responsive, easy-to-navigate, highlighting **projects, skills, and daily learning**.  
-> First thing recruiters see — interactive and live!
+> Fully responsive, highlighting projects, skills, and daily learning. First thing recruiters see — interactive and live.
+
+---
+
 ## 🌟 About Me
 
-- 🏢 **8+ years** managing teams and resolving high-pressure crises in the hospitality sector (UK & Spain)
+- 🏢 **8+ years** managing teams and resolving high-pressure crises in hospitality (UK & Spain)
 - 💻 Now applying that same resilience and structured thinking to **web development**
 - 📓 Documenting **365 days of daily learning**: real errors, real solutions, real victories
 - 🧠 Career changer who understands that **attitude and problem-solving** outlast syntax
 
 ---
-
-
 
 ## 🛠️ Stack & Tools
 
@@ -47,13 +48,14 @@
 
 ## 🎯 Featured Projects
 
-| Project | What I learned | Stack | Live Demo |
+| Project | What I learned | Stack | Links |
 |---|---|---|---|
-☕ Campus & Crema | Flexbox, CSS debugging, responsive layout | HTML · CSS · Flexbox | [Demo](https://anudoranador87.github.io/Campus-Crema/) · [Repo](https://github.com/anudoranador87/Campus-Crema) |
-💍 Mangata & Gallo | Micro-interactions, typography hierarchy, UI polish | Advanced CSS · Responsive | [Demo](https://anudoranador87.github.io/mangata-gallo-jewelry/) · [Repo](https://github.com/anudoranador87/mangata-gallo-jewelry) |
-🃏 We Playing Cards | JS logic, `=` vs `===`, array manipulation | JavaScript · Functions | [Demo](https://anudoranador87.github.io/we-playing-cards/) · [Repo](https://github.com/anudoranador87/we-playing-cards) |
-⚙️ EquiShift Málaga | Modular rotation algorithm, real business logic, OOP | JavaScript · Data Architecture | [Repo](https://github.com/anudoranador87/EquiShift-M-laga-2026-Algoritmo-de-cuadrantes-equitativos-con-JS) |
-📓 365-Day Dev Journey | Daily learning log: bugs, solutions, and breakthroughs | HTML · CSS · JS | [Read Log](https://anudoranador87.github.io/Mi-Camino-Web-365/)
+| ☕ Campus & Crema | Flexbox, CSS debugging, responsive layout, vanilla JS | HTML · CSS · JS | [Demo](https://anudoranador87.github.io/campus-crema-web/) · [Repo](https://github.com/anudoranador87/campus-crema-web) |
+| 💍 Mangata & Gallo | Micro-interactions, typography hierarchy, UI polish | Advanced CSS · Responsive | [Demo](https://anudoranador87.github.io/mangata-gallo-jewelry/) · [Repo](https://github.com/anudoranador87/mangata-gallo-jewelry) |
+| 🃏 We Playing Cards | JS logic, DOM events, 3D transforms, state machine | JavaScript · CSS | [Demo](https://anudoranador87.github.io/we-playing-cards/) · [Repo](https://github.com/anudoranador87/we-playing-cards) |
+| 🛒 MiniShop JS | OOP, classes, reduce(), filter(), 6 bugs documented | JavaScript · OOP | [Repo](https://github.com/anudoranador87/minishop-js) |
+| ⚙️ EquiShift Málaga | Modular rotation algorithm, real business logic, OOP | JavaScript · Algorithms | [Repo](https://github.com/anudoranador87/EquiShift-M-laga-2026-Algoritmo-de-cuadrantes-equitativos-con-JS) |
+| 📓 Dev Log 365 | Daily engineering journal: bugs, decisions, breakthroughs | HTML · CSS · JS | [Read Log](https://anudoranador87.github.io/Mi-Camino-Web-365/) |
 
 ---
 
@@ -66,7 +68,7 @@
 - 🔄 **Modular rotation algorithm** guaranteeing mathematical fairness across all employees
 - 📅 **Full 2026 Málaga holiday dataset** (national, regional & local)
 - 👥 **Mixed contract support**: 37.5h and 40h contracts with individual balance tracking
-- 🏗️ Currently in architecture phase — building the logic engine before the UI
+- ✅ **104 weekends validated** — the engine counts correctly
 
 This is not a tutorial project. It solves a **real operational problem** from my workplace.
 
@@ -74,36 +76,39 @@ This is not a tutorial project. It solves a **real operational problem** from my
 
 ## 📊 Learning Dashboard
 
-### 🔥 Consistency Streak
-> 60+ consecutive days of documented learning
+### 🔥 Consistency
+> 26 documented study sessions · Started February 20, 2026
 
-### 📘 Certifications in Progress
-- Meta Front-End Developer (Coursera)
-- freeCodeCamp Responsive Web Design
+### 📘 Certifications
+- ✅ Meta Programming with JavaScript (Coursera · March 2026)
+- ✅ freeCodeCamp Responsive Web Design
+- ✅ freeCodeCamp JavaScript Algorithms
+- 🔄 Meta Front-End Developer Professional Certificate (in progress)
 
 ### 💎 Honest Skill Levels
 
 | Skill | Level |
 |---|---|
-| JavaScript | ████░░░░░░ 50% |
-| CSS & Grid | ██████░░░░ 60% |
+| JavaScript | ██████░░░░ 60% |
+| CSS & Grid | ███████░░░ 70% |
 | Flexbox | █████████░ 90% |
-| Responsive Design | ███████░░░ 75% |
+| Responsive Design | ████████░░ 80% |
+| OOP / Classes | ██████░░░░ 60% |
+| Algorithms | █████░░░░░ 50% |
 
-*These are honest assessments — not inflated for appearances.*
+*Honest assessments — not inflated for appearances.*
 
 ---
 
 ## 📔 Dev Log Highlights
 
-- **Day 20 Feb**: First JS "click" → Template Literals & `for...of` loops 💡
-- **Day 22 Feb**: Odin Project Form: Grid/Flexbox & typographic hierarchy 📐
-- **Day 23 Feb**: Responsive Design + `:hover` micro-interactions · **Scrapped and rebuilt from scratch** 📱
-- **Day 24 Feb**: Algorithms & data structures: arrays and objects 🏋️
-- **Day 25 Feb**: Circular state engine & syntactic discipline 🔵
-- **Day 26 Feb**: Coursera exam passed — then built a real supermarket ticket generator because passing wasn't enough 💻
-- **Day 27 Feb**: Native dark mode with CSS variables & DOM manipulation 🌙
-- **Day 1 Mar**: Positive saturation → strategic rest for concept assimilation 🛑
+- **Entry 26 · Mar 19**: 5 freeCodeCamp exercises · Pattern identified: confusing container with value
+- **Entry 24 · Mar 17**: EquiShift motor · 365-day loop · modular arithmetic · 104 weekends validated ✅
+- **Entry 23 · Mar 14**: MiniShop JS · OOP system · `reduce()` · `filter()` · 6 bugs documented
+- **Entry 22 · Mar 13**: Little Lemon lab · 11 warm-up attempts → 1 on the real lab
+- **Entry 17 · Mar 8**: Arrow Functions · 5 failed attempts and one real "click"
+- **Entry 9 · Feb 28**: EquiShift born — the day I started coding workplace fairness
+- **Entry 7 · Feb 26**: Coursera exam passed — built a supermarket ticket generator anyway
 
 📓 [Read the full Dev Log →](https://anudoranador87.github.io/Mi-Camino-Web-365/)
 
@@ -115,7 +120,6 @@ This is not a tutorial project. It solves a **real operational problem** from my
 - 🔹 **Team leadership** — managed diverse hospitality teams in UK & Spain
 - 🔹 **Structured, modular thinking** — applied directly to code architecture
 - 🔹 **Clear communication** — Spanish (native) · English (full professional proficiency)
-- 🔹 **Self-directed learning** — 60+ days of consistent, documented progress
 - 🔹 **Intellectual honesty** — I document what breaks, not just what works
 
 ---
@@ -129,7 +133,6 @@ This is not a tutorial project. It solves a **real operational problem** from my
 > *If you value consistency, real problem-solving, and someone who knows how to work under pressure — let's talk.*
 
 ---
----
 
 <a id="espanol"></a>
 
@@ -140,19 +143,22 @@ This is not a tutorial project. It solves a **real operational problem** from my
 
 ---
 
+## 🌐 Mi CV Web Interactivo
+
+💻 [Jose Aparicio — Portafolio Web](https://anudoranador87.github.io/JoseMaria-Frondtend-Portfolio/)
+
+> Totalmente responsive, con proyectos, skills y log diario.
+
+---
+
 ## 🌟 Sobre mí
 
-- 🏢 **8+ años** gestionando equipos y resolviendo crisis en el sector hostelero (UK & España)
-- 💻 Ahora aplico esa misma resiliencia y análisis estructurado al **desarrollo web**
-- 📓 Documentando **365 días de aprendizaje diario**: errores reales, soluciones reales, victorias reales
+- 🏢 **8+ años** gestionando equipos y resolviendo crisis en hostelería (UK & España)
+- 💻 Ahora aplico esa misma resiliencia al **desarrollo web**
+- 📓 Documentando **365 días de aprendizaje**: errores reales, soluciones reales, victorias reales
 - 🧠 Career changer que entiende que la **actitud y el pensamiento crítico** superan a la sintaxis
 
 ---
-## 🌐 Mi CV Web Interactivo
-
-💻 [Jose Aparicio — Portafolio Web](https://anudoranador87.github.io/JoseMaria-Frondtend-Portfolio/)  
-
-> Totalmente responsive y fácil de navegar, con **proyectos, skills y log diario**.
 
 ## 🛠️ Stack & Herramientas
 
@@ -172,13 +178,14 @@ This is not a tutorial project. It solves a **real operational problem** from my
 
 ## 🎯 Proyectos Destacados
 
-| Proyecto | Qué aprendí | Stack | Demo |
+| Proyecto | Qué aprendí | Stack | Enlaces |
 |---|---|---|---|
-| ☕ Campus & Crema | Flexbox, debug CSS, responsive | HTML · CSS · Flexbox | [Demo](https://anudoranador87.github.io/Campus-Crema/) · [Repo](https://github.com/anudoranador87/Campus-Crema) |
+| ☕ Campus & Crema | Flexbox, debug CSS, responsive, JS vanilla | HTML · CSS · JS | [Demo](https://anudoranador87.github.io/campus-crema-web/) · [Repo](https://github.com/anudoranador87/campus-crema-web) |
 | 💍 Mangata & Gallo | Micro-interacciones, tipografía, UI | CSS avanzado · Responsive | [Demo](https://anudoranador87.github.io/mangata-gallo-jewelry/) · [Repo](https://github.com/anudoranador87/mangata-gallo-jewelry) |
-| 🃏 We Playing Cards | Lógica JS, `=` vs `===`, arrays | JavaScript · Funciones | [Demo](https://anudoranador87.github.io/we-playing-cards/) · [Repo](https://github.com/anudoranador87/we-playing-cards) |
-| ⚙️ EquiShift Málaga | Algoritmo de rotación modular, lógica real de negocio, OOP | JavaScript · Arquitectura de datos | [Repo](https://github.com/anudoranador87/EquiShift-M-laga-2026-Algoritmo-de-cuadrantes-equitativos-con-JS) |
-| 📓 Mi-Camino-Web-365 | Bitácora diaria de errores y soluciones | HTML · CSS · JS | [Ver Log](https://anudoranador87.github.io/Mi-Camino-Web-365/) |
+| 🃏 We Playing Cards | Lógica JS, DOM, 3D transforms, máquina de estado | JavaScript · CSS | [Demo](https://anudoranador87.github.io/we-playing-cards/) · [Repo](https://github.com/anudoranador87/we-playing-cards) |
+| 🛒 MiniShop JS | POO, clases, reduce(), filter(), 6 bugs documentados | JavaScript · OOP | [Repo](https://github.com/anudoranador87/minishop-js) |
+| ⚙️ EquiShift Málaga | Algoritmo modular, lógica real de negocio, OOP | JavaScript · Algoritmos | [Repo](https://github.com/anudoranador87/EquiShift-M-laga-2026-Algoritmo-de-cuadrantes-equitativos-con-JS) |
+| 📓 Dev Log 365 | Bitácora diaria de errores y soluciones | HTML · CSS · JS | [Ver Log](https://anudoranador87.github.io/Mi-Camino-Web-365/) |
 
 ---
 
@@ -186,12 +193,12 @@ This is not a tutorial project. It solves a **real operational problem** from my
 
 **Sistema inteligente de gestión de turnos** para plantillas multicontrato en Málaga.
 
-> *"EquiShift no solo organiza turnos; traduce reglas complejas en un sistema transparente y confiable."*
+> *"EquiShift no solo organiza turnos — traduce reglas complejas en un sistema transparente y confiable."*
 
 - 🔄 **Algoritmo de rotación modular** que garantiza equidad matemática entre empleados
 - 📅 **Dataset completo de festivos Málaga 2026** (nacionales, autonómicos y locales)
 - 👥 **Soporte multicontrato**: jornadas de 37.5h y 40h con gestión de saldo individual
-- 🏗️ Actualmente en fase de arquitectura — construyendo el motor lógico antes de la UI
+- ✅ **104 fines de semana validados** — el motor cuenta bien
 
 Este no es un proyecto de tutorial. Resuelve un **problema operativo real** de mi entorno laboral.
 
@@ -199,34 +206,39 @@ Este no es un proyecto de tutorial. Resuelve un **problema operativo real** de m
 
 ## 📊 Dashboard de Aprendizaje
 
-### 🔥 Racha de Consistencia
-> 60+ días consecutivos de aprendizaje documentado
+### 🔥 Consistencia
+> 26 sesiones de estudio documentadas · Inicio: 20 de febrero de 2026
 
-### 📘 Certificaciones en Progreso
-- Meta Front-End Developer (Coursera)
-- freeCodeCamp Responsive Web Design
+### 📘 Certificaciones
+- ✅ Meta Programming with JavaScript (Coursera · Marzo 2026)
+- ✅ freeCodeCamp Responsive Web Design
+- ✅ freeCodeCamp JavaScript Algorithms
+- 🔄 Meta Front-End Developer Professional Certificate (en progreso)
 
 ### 💎 Niveles Técnicos (Honestos)
 
 | Habilidad | Nivel |
 |---|---|
-| JavaScript | ████░░░░░░ 50% |
-| CSS & Grid | ██████░░░░ 60% |
+| JavaScript | ██████░░░░ 60% |
+| CSS & Grid | ███████░░░ 70% |
 | Flexbox | █████████░ 90% |
-| Responsive Design | ███████░░░ 75% |
+| Responsive Design | ████████░░ 80% |
+| POO / Clases | ██████░░░░ 60% |
+| Algoritmos | █████░░░░░ 50% |
+
+*Valoraciones honestas — sin inflar para aparentar.*
 
 ---
 
 ## 📔 Highlights Diario 365
 
-- **Día 20 Feb**: Primer "clic" JS → Template Literals y `for...of` 💡
-- **Día 22 Feb**: Formulario Odin Project: Grid/Flexbox y jerarquía tipográfica 📐
-- **Día 23 Feb**: Responsive Design + micro-interacciones `:hover` · **Tiré el código y empecé desde cero** 📱
-- **Día 24 Feb**: Algoritmos y estructuras de datos, arrays y objetos 🏋️
-- **Día 25 Feb**: Motor de estado circular y disciplina sintáctica 🔵
-- **Día 26 Feb**: Examen Coursera aprobado — luego construí un generador de tickets real porque aprobar no era suficiente 💻
-- **Día 27 Feb**: Modo oscuro nativo con variables CSS y DOM 🌙
-- **Día 1 Mar**: Saturación positiva → vacaciones para asimilar conceptos 🛑
+- **Entrada 26 · 19 Mar**: 5 ejercicios freeCodeCamp · Patrón: confundir contenedor con valor
+- **Entrada 24 · 17 Mar**: Motor EquiShift · bucle 365 días · aritmética modular · 104 fines de semana ✅
+- **Entrada 23 · 14 Mar**: MiniShop JS · OOP desde cero · `reduce()` · `filter()` · 6 bugs documentados
+- **Entrada 22 · 13 Mar**: Lab Little Lemon · 11 intentos calentamiento → 1 en el lab real
+- **Entrada 17 · 8 Mar**: Arrow Functions · 5 intentos fallidos y un "clic" real
+- **Entrada 9 · 28 Feb**: EquiShift nace — el día que empecé a codificar justicia laboral
+- **Entrada 7 · 26 Feb**: Examen Coursera aprobado — construí un generador de tickets de todas formas
 
 📓 [Ver Bitácora completa →](https://anudoranador87.github.io/Mi-Camino-Web-365/)
 
@@ -238,14 +250,13 @@ Este no es un proyecto de tutorial. Resuelve un **problema operativo real** de m
 - 🔹 **Liderazgo y gestión de equipos** — equipos multiculturales en UK y España
 - 🔹 **Pensamiento estructurado y modular** — aplicado directamente a la arquitectura de código
 - 🔹 **Comunicación clara** — Español nativo · Inglés profesional completo
-- 🔹 **Aprendizaje autodidacta** — 60+ días de progreso consistente y documentado
 - 🔹 **Honestidad intelectual** — documento lo que falla, no solo lo que funciona
 
 ---
 
 ## 📫 Contacto
 
-💼 [LinkedIn](https://www.linkedin.com/in/joseaparicio87)
+💼 [LinkedIn](https://www.linkedin.com/in/joseaparicio87/)
 📧 josemaparicio87@gmail.com
 
 > *Disponible para oportunidades junior en front-end — remoto, híbrido o presencial.*
