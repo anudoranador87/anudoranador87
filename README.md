@@ -87,6 +87,7 @@ This is not a tutorial project. It solves a **real operational problem** from my
 ### 📘 Certifications
 
 * ✅ Meta Programming with JavaScript (Coursera · March 2026)
+* ✅ React Basics — Meta / Coursera (April 2026) · [Verify](https://coursera.org/verify/S2ONWVQR726B)
 * ✅ freeCodeCamp Responsive Web Design
 * ✅ freeCodeCamp JavaScript Algorithms
 * 🔄 Meta Front-End Developer Professional Certificate (in progress)
@@ -228,6 +229,7 @@ Este no es un proyecto de tutorial. Resuelve un **problema operativo real** de m
 ### 📘 Certificaciones
 
 * ✅ Meta Programming with JavaScript (Coursera · Marzo 2026)
+* ✅ React Basics — Meta / Coursera (Abril 2026) · [Verificar](https://coursera.org/verify/S2ONWVQR726B)
 * ✅ freeCodeCamp Responsive Web Design
 * ✅ freeCodeCamp JavaScript Algorithms
 * 🔄 Meta Front-End Developer Professional Certificate (en progreso)
