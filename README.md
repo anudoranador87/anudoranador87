@@ -1,6 +1,6 @@
 # Hey, I'm Jose 👋
 
-> *Hospitality manager turned front-end developer. 8 years solving problems under pressure — now I do it in JavaScript.*
+> *Hospitality recepcionist turned front-end developer. 8 years solving problems under pressure — now I do it in JavaScript.*
 
 I'm documenting every step of my transition publicly: **46 days in, 365 days total.**
 
