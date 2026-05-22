@@ -3,7 +3,7 @@
 > *Hospitality recepcionist turned front-end developer. 8 years solving problems under pressure — now I do it in JavaScript.*
 
 I'm documenting every step of my transition publicly: **46 days in, 365 days total.**
-My CV Portfolio : (https://github.com/anudoranador87/JoseMaria-Frontend-Portfolio.git)
+My CV Portfolio : ( https://anudoranador87.github.io/JoseMaria-Frontend-Portfolio/)
 
 ---
 
