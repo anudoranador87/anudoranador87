@@ -3,7 +3,7 @@
 > *Hospitality recepcionist turned front-end developer. 8 years solving problems under pressure — now I do it in JavaScript.*
 
 I'm documenting every step of my transition publicly: **52 days in, 365 days total.**
-My CV Portfolio: [JoseMaria-Frontend-Portfolio](https://anudoranador87.github.io/JoseMaria-Frontend-Portfolio/)
+My CV Portfolio: [Portfolio](https://anudoranador87.github.io/JoseMaria-Frontend-Portfolio/)
 
 ---
 
@@ -31,22 +31,21 @@ My CV Portfolio: [JoseMaria-Frontend-Portfolio](https://anudoranador87.github.io
 
 ## 📓 Dev Log 365
 
-I write every day. Real bugs, real fixes, real progress.
+I write every day. Real bugs, real fixes, real progress. [Lee el registro completo aquí →](https://anudoranador87.github.io/Mi-Camino-Web-365/)
 
-
-**Recent entries:**
+**Entradas recientes:**
 - **Day 52** — Responsive mobile layout, real logout with Supabase, session restore on reload and role-filtered sidebar navigation.
 - **Day 51** — Auth with Supabase, ProtectedRoute, SVG logo from scratch and full visual consistency across the app.
 - **Day 50** — Full CRUD with Supabase from scratch. select, insert, delete, update — first time touching a real database.
 
-📓 [Read the full log →](https://anudoranador87.github.io/Mi-Camino-Web-365/)
+
 
 ---
 
 ## 📫 Let's talk
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseaparicio87/)
-[![Portfolio](https://img.shields.io/badge/Personal_Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://anudoranador87.github.io/JoseMaria-Frontend-Portfolio/)
+[![Mi Portafolio](https://img.shields.io/badge/Mi_Portafolio-000000?style=flat-square&logo=github&logoColor=white)](https://anudoranador87.github.io/JoseMaria-Frontend-Portfolio/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:josemaparicio87@gmail.com)
 
 > *Open to junior front-end roles — remote, hybrid, or Málaga.*
