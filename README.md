@@ -57,7 +57,7 @@ Practical study is documented through the [IT Support Labs](https://github.com/a
 ### 🌐 Links
 
 <p>
-  <img src="assets/certifications/google-it-support.png" alt="Google IT Support Professional Certificate" height="110">
+  <img src="assets/certifications/google-it-support.png" alt="Google IT Support Professional Certificate" height="150">
   <img src="assets/certifications/meta-front-end-developer.png" alt="Meta Front-End Developer Professional Certificate" height="110">
 </p>
 
