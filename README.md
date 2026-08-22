@@ -2,7 +2,18 @@
 
 ## IT Support / Technical Support
 
-Transitioning from 8+ years in hospitality operations into IT Support and Technical Support, with hands-on practice across Windows, Linux, networking, troubleshooting, Python and web development.
+8+ years managing operations, incidents and people under pressure in hospitality — now applying that same problem-solving mindset to IT Support. Hands-on practice across Windows, Linux, networking, Active Directory and troubleshooting, with a self-taught foundation in web development that shaped how I approach systems.
+
+### 🎓 Certifications
+
+<p>
+  <img src="assets/certifications/google-it-support.png" alt="Google IT Support Professional Certificate" height="90">
+  <img src="assets/certifications/meta-front-end-developer.png" alt="Meta Front-End Developer Professional Certificate" height="90">
+</p>
+
+- ✅ **Google IT Support Professional Certificate** — Google / Coursera
+- ✅ **Meta Front-End Developer Professional Certificate** — Meta / Coursera
+- 🔄 **CompTIA A+ Core 1 & Core 2** — target: October 2026
 
 ### 🛠️ IT Support focus
 
@@ -21,18 +32,21 @@ Transitioning from 8+ years in hospitality operations into IT Support and Techni
 | Project | What it demonstrates | Stack |
 |---|---|---|
 | [IT Support Labs](https://github.com/anudoranador87/it-support-labs) | Hands-on troubleshooting scenarios, evidence, root cause and verification | Windows · Linux · Networking · AD · Python |
-| [LostDesk](https://github.com/anudoranador87/lostdesk-react) | Real-world hotel operations application with authentication, roles and database integration | React · Supabase · PostgreSQL · Vite |
-| [Campus & Crema](https://github.com/anudoranador87/campus-crema-react) | Component architecture, state management and multi-step checkout | React · JavaScript · Vite |
-| [EquiShift](https://github.com/anudoranador87/EquiShift-M-laga-2026-Algoritmo-de-cuadrantes-equitativos-con-JS) | Algorithmic solution to a real workplace scheduling problem | JavaScript · OOP |
+| [EquiShift](https://github.com/anudoranador87/EquiShift-M-laga-2026-Algoritmo-de-cuadrantes-equitativos-con-JS) | Algorithmic solution to a real workplace scheduling problem, born from a hotel staffing need | JavaScript · OOP |
 
-### 💻 Additional technical experience
+### 💻 How I got here: Front-End development
+
+Before IT Support, I spent 2026 building real applications to solve problems from my own workplace — that hands-on process is what pointed me toward systems and infrastructure.
+
+| Project | What it demonstrates | Stack |
+|---|---|---|
+| [LostDesk](https://github.com/anudoranador87/lostdesk-react) | Hotel operations app with authentication, role-based access and database integration | React · Supabase · PostgreSQL · Vite |
+| [Campus & Crema](https://github.com/anudoranador87/campus-crema-react) | Component architecture, state management and multi-step checkout | React · JavaScript · Vite |
 
 - HTML5, CSS3, JavaScript and React
 - Git and GitHub
-- Supabase / PostgreSQL
-- Vercel
+- Supabase / PostgreSQL, Vercel
 - REST APIs and asynchronous JavaScript
-- Responsive and accessible interfaces
 
 ### 📚 Current learning
 
