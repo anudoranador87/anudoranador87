@@ -56,6 +56,11 @@ Practical study is documented through the [IT Support Labs](https://github.com/a
 
 ### 🌐 Links
 
+<p>
+  <img src="assets/certifications/google-it-support.png" alt="Google IT Support Professional Certificate" height="110">
+  <img src="assets/certifications/meta-front-end-developer.png" alt="Meta Front-End Developer Professional Certificate" height="110">
+</p>
+
 - [LinkedIn](https://www.linkedin.com/in/joseaparicio87/)
 - [Portfolio](https://anudoranador87.github.io/JoseMaria-Frontend-Portfolio/)
 - [Dev Log 365](https://anudoranador87.github.io/Mi-Camino-Web-365/)
