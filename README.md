@@ -2,79 +2,179 @@
 
 ## IT Support / Technical Support
 
-IT Support professional transitioning from **8+ years managing operations, incidents and people in hospitality**. I bring a calm, structured approach to troubleshooting, root-cause analysis and technical documentation, supported by hands-on practice across Windows, Linux, networking and Active Directory fundamentals.
+IT Support professional transitioning from **8+ years managing operations, incidents and people in hospitality**.
 
-Currently building a practical portfolio for **IT Support, Technical Support, Help Desk and Service Desk** roles in Málaga, hybrid or remote environments.
+I bring a calm and structured approach to troubleshooting, root-cause analysis and technical documentation, supported by hands-on practice with Windows, Linux, networking and Active Directory fundamentals.
 
-### 🎓 Certifications
+Currently building a practical portfolio for:
+
+- IT Support
+- Technical Support
+- Help Desk / Service Desk
+- Junior Systems Administration
+
+Based in **Málaga, Spain**. Open to hybrid and remote opportunities.
+
+---
+
+## 🎓 Certifications and Learning
 
 <p>
-  <img src="assets/certifications/google-it-support.png" alt="Google IT Support Professional Certificate" height="100">
-  <img src="assets/certifications/meta-front-end-developer.png" alt="Meta Front-End Developer Professional Certificate" height="100">
+  <img src="assets/certifications/google-it-support.png"
+       alt="Google IT Support Professional Certificate"
+       height="100">
+  <img src="assets/certifications/meta-front-end-developer.png"
+       alt="Meta Front-End Developer Professional Certificate"
+       height="100">
 </p>
 
 - ✅ **Google IT Support Professional Certificate** — Google / Coursera
 - ✅ **Meta Front-End Developer Professional Certificate** — Meta / Coursera
-- 🔄 **CompTIA A+ Core 1 & Core 2** — target: October 2026
+- 🔄 **CompTIA A+ Core 1 and Core 2** — target: October 2026
 
-### 🧰 Technical toolkit
+---
 
-#### IT Support
+## 🧰 Technical Toolkit
 
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Networking](https://img.shields.io/badge/Networking-TCP%2FIP%20%7C%20DNS%20%7C%20DHCP-1f6feb?style=flat-square) ![Active Directory](https://img.shields.io/badge/Active%20Directory-Fundamentals-2D6CDF?style=flat-square) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### IT Support
 
-#### Front-End & Development
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white )
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black )
+![Networking](https://img.shields.io/badge/Networking-TCP%2FIP%20%7C%20DNS%20%7C%20DHCP-1f6feb?style=flat-square )
+![Active Directory](https://img.shields.io/badge/Active%20Directory-Fundamentals-2D6CDF?style=flat-square )
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white )
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white )
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+### Front-End and Development
 
-| Area | Tools and concepts |
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white )
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white )
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black )
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB )
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white )
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white )
+
+| Area | Skills and Concepts |
 |---|---|
-| **Operating systems** | Windows 11 · Linux / Ubuntu |
-| **Networking** | TCP/IP · DNS · DHCP · SSH |
-| **Identity and systems** | Active Directory fundamentals · Services · Processes · System troubleshooting |
-| **Support practice** | Incident analysis · Root-cause investigation · Verification · Technical documentation · ITSM / Help Desk workflows |
-| **Automation** | Python · PowerShell |
-| **Web development** | HTML5 · CSS3 · JavaScript · React · REST APIs |
-| **Tools and platforms** | Git · GitHub · Supabase · PostgreSQL · Vercel |
+| **Operating Systems** | Windows 11 · Windows Server fundamentals · Linux / Ubuntu |
+| **Networking** | TCP/IP · DNS · DHCP · SSH · subnetting · virtual networking |
+| **Identity and Systems** | Active Directory fundamentals · services · processes · permissions |
+| **Support Practice** | Incident analysis · root-cause investigation · verification · technical documentation |
+| **Automation** | PowerShell · Bash · Python |
+| **Web Development** | HTML5 · CSS3 · JavaScript · React · REST APIs |
+| **Tools and Platforms** | Git · GitHub · Supabase · PostgreSQL · Vercel |
 
-### ⭐ Featured IT Support work
+---
 
-| Project | What it demonstrates | Stack |
-|---|---|---|
-| [IT Support Labs](https://github.com/anudoranador87/it-support-labs) | Evidence-driven troubleshooting scenarios covering Windows, Linux, networking, Active Directory and verification of solutions | Windows · Linux · Networking · AD · Python |
-| [EquiShift](https://github.com/anudoranador87/EquiShift-M-laga-2026-Algoritmo-de-cuadrantes-equitativos-con-JS) | A practical algorithmic solution to a real workplace scheduling problem, developed from a hospitality staffing need | JavaScript · OOP · Monte Carlo |
+## ⭐ Featured IT Support Work
 
-### 🔍 How I troubleshoot
+### [IT Support Labs](https://github.com/anudoranador87/it-support-labs )
 
-My approach is structured around making problems understandable, testable and preventable:
+Evidence-driven IT Support and Systems Administration portfolio covering practical scenarios involving:
+
+- Windows Server
+- Active Directory
+- Hyper-V
+- Linux troubleshooting
+- Networking
+- PowerShell
+- Root-cause analysis
+- Technical verification and documentation
+
+The repository includes hands-on labs, screenshots, command evidence, interactive tools and structured troubleshooting procedures.
+
+### [Help Desk Simulation](https://github.com/anudoranador87/help-desk-simulation )
+
+A simulated IT Help Desk environment focused on incident handling, ticket documentation, troubleshooting evidence and resolution workflows.
+
+### [Endpoint Health Toolkit](https://github.com/anudoranador87/endpoint-health-toolkit )
+
+Read-only Windows and Linux endpoint diagnostics designed to generate support-oriented health reports.
+
+### [EquiShift](https://github.com/anudoranador87/EquiShift-M-laga-2026-Algoritmo-de-cuadrantes-equitativos-con-JS )
+
+A practical algorithmic solution to a real workplace scheduling problem, developed from an operational need in hospitality.
+
+---
+
+## 🔍 How I Troubleshoot
+
+My approach is structured around making technical problems understandable, testable and preventable:
 
 1. **Reproduce and define** the issue, its impact and its scope.
 2. **Collect evidence** from symptoms, logs, configuration and user context.
 3. **Isolate the root cause** by testing the most likely explanations.
-4. **Apply and verify** the solution, confirming that the original issue is resolved.
-5. **Document the outcome** so the fix can be repeated and future incidents can be handled faster.
+4. **Apply the safest appropriate solution** while considering potential impact and rollback.
+5. **Verify the result** and confirm that the original issue has been resolved.
+6. **Document the outcome** so the fix can be repeated and future incidents can be handled faster.
 
-### 💻 Front-End background
+> Build. Troubleshoot. Verify. Document.
 
-Before focusing on IT Support, I built real applications inspired by problems from my own workplace. This experience strengthened my understanding of users, systems, data flows and the importance of clear, maintainable solutions.
+---
 
-| Project | What it demonstrates | Stack |
+## 💻 Previous Development Work
+
+Before focusing on IT Support, I built real applications inspired by problems from my own workplace in hospitality.
+
+This experience strengthened my understanding of:
+
+- User needs and operational workflows
+- Systems and data flows
+- Authentication and role-based access
+- Database integration
+- Maintainable and practical solutions
+
+### Selected Projects
+
+| Project | What It Demonstrates | Stack |
 |---|---|---|
-| [LostDesk](https://github.com/anudoranador87/lostdesk-react) · [Live demo](https://lostdesk-react.vercel.app) | Hotel operations app with authentication, role-based access and database integration | React · Supabase · PostgreSQL · Vite |
-| [Campus & Crema](https://github.com/anudoranador87/campus-crema-react) · [Live demo](https://campus-crema-react.vercel.app) | Component architecture, state management and a multi-step checkout experience | React · JavaScript · Vite |
+| [LostDesk](https://github.com/anudoranador87/lostdesk-react ) · [Live Demo](https://lostdesk-react.vercel.app ) | Hotel lost-property management application with authentication, role-based access and database integration | React · Supabase · PostgreSQL · Vite |
+| [Campus & Crema](https://github.com/anudoranador87/campus-crema-react ) · [Live Demo](https://campus-crema-react.vercel.app ) | Component architecture, state management and a multi-step checkout experience | React · JavaScript · Vite |
+| [Front-End Portfolio](https://anudoranador87.github.io/JoseMaria-Frontend-Portfolio/ ) | Selected front-end projects and examples of responsive interface development | HTML · CSS · JavaScript · React |
 
-### 📚 Current learning
+---
 
-**CompTIA A+ Core 1 & Core 2 — target: October 2026**
+## 📚 Current Focus
 
-I am documenting my practical study through the [IT Support Labs](https://github.com/anudoranador87/it-support-labs) repository, with scenarios focused on Windows, Linux, networking, Active Directory and troubleshooting.
+**CompTIA A+ Core 1 and Core 2 — target: October 2026**
 
-### 🌐 Links
+I am documenting my practical learning through the
+[IT Support Labs repository](https://github.com/anudoranador87/it-support-labs ), with scenarios focused on:
 
-- [LinkedIn](https://www.linkedin.com/in/joseaparicio87/)
-- [Portfolio](https://anudoranador87.github.io/JoseMaria-Frontend-Portfolio/)
-- [Dev Log 365](https://anudoranador87.github.io/Mi-Camino-Web-365/)
+- Windows and Windows Server
+- Linux troubleshooting
+- Networking and TCP/IP
+- Active Directory
+- Hyper-V virtualization
+- Technical support methodology
+- Root-cause analysis and verification
 
-> Open to IT Support, Technical Support, Help Desk and Service Desk opportunities — Málaga, hybrid or remote.
+New practical work is added after it has been executed, tested and documented with evidence.
 
-<!-- Updated: 2026-08 -->
+---
+
+## 🌐 Links
+
+- [LinkedIn](https://www.linkedin.com/in/joseaparicio87/ )
+- [GitHub](https://github.com/anudoranador87 )
+- [Interactive Portfolio](https://anudoranador87.github.io/JoseMaria-Frontend-Portfolio/ )
+- [Dev Log 365](https://anudoranador87.github.io/Mi-Camino-Web-365/ )
+- [IT Support Labs](https://github.com/anudoranador87/it-support-labs )
+
+---
+
+## Open to Opportunities
+
+Open to opportunities in:
+
+- IT Support
+- Technical Support
+- Help Desk
+- Service Desk
+- Junior Systems Administration
+
+**Location:** Málaga, Spain  
+**Availability:** Hybrid or remote
+
+<!-- Updated: 2026-09 -->
+
