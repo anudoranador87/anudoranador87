@@ -26,16 +26,17 @@ Based in **Málaga, Spain**. Open to hybrid and remote opportunities.
   <img src="assets/certifications/meta-front-end-developer.png"
        alt="Meta Front-End Developer Professional Certificate"
        height="100">
+  <a href="https://learn.microsoft.com/api/credentials/share/es-es/JosemariaAparicioPortillo-6505/ABD3679EBC76C5DB?sharingId=BEB98820D4F8219">
+    <img src="https://cdn.simpleicons.org/microsoft/5E5E5E"
+         alt="Microsoft Applied Skills: Administer Active Directory Domain Services"
+         height="100">
+  </a>
 </p>
 
 - ✅ **Google IT Support Professional Certificate** — Google / Coursera
 - ✅ **Meta Front-End Developer Professional Certificate** — Meta / Coursera
 - ✅ **Microsoft Applied Skills: Administer Active Directory Domain Services** — Microsoft Learn
 - 🔄 **CompTIA A+ Core 1 and Core 2** — target: October 2026
-
-<a href="https://learn.microsoft.com/api/credentials/share/es-es/JosemariaAparicioPortillo-6505/ABD3679EBC76C5DB?sharingId=BEB98820D4F8219">
-  <img src="https://img.shields.io/badge/Microsoft-Applied%20Skills-5E5E5E?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Applied Skills: Administer Active Directory Domain Services">
-</a>
 
 ---
 
@@ -182,4 +183,3 @@ Open to opportunities in:
 **Availability:** Hybrid or remote
 
 <!-- Updated: 2026-09 -->
-
