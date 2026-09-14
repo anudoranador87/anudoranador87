@@ -20,14 +20,18 @@ Based in **Málaga, Spain**. Open to hybrid and remote opportunities.
 ## 🎓 Certifications and Learning
 
 <p>
-  <img src="assets/certifications/google-it-support.png"
-       alt="Google IT Support Professional Certificate"
-       height="100">
-  <img src="assets/certifications/meta-front-end-developer.png"
-       alt="Meta Front-End Developer Professional Certificate"
-       height="100">
+  <a href="https://www.coursera.org/account/accomplishments/specialization/WZZKKJMEHU19?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Ds12n">
+    <img src="assets/certifications/google-it-support.png"
+         alt="Google IT Support Professional Certificate"
+         height="100">
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/TVOUKRXVJUCQ?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Ds12n">
+    <img src="assets/certifications/meta-front-end-developer.png"
+         alt="Meta Front-End Developer Professional Certificate"
+         height="100">
+  </a>
   <a href="https://learn.microsoft.com/api/credentials/share/es-es/JosemariaAparicioPortillo-6505/ABD3679EBC76C5DB?sharingId=BEB98820D4F8219">
-    <img src="https://cdn.simpleicons.org/microsoft/5E5E5E"
+    <img src="assets/certifications/microsoft.svg"
          alt="Microsoft Applied Skills: Administer Active Directory Domain Services"
          height="100">
   </a>
