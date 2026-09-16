@@ -35,11 +35,17 @@ Based in **Málaga, Spain**. Open to hybrid and remote opportunities.
          alt="Microsoft Applied Skills: Administer Active Directory Domain Services"
          height="100">
   </a>
+  <a href="https://www.credly.com/badges/43af9c3c-58f6-447e-b5f5-a93f00dc7b89/public_url">
+    <img src="https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=flat-square&logo=cisco&logoColor=white"
+         alt="Cisco Networking Basics — Credly"
+         height="28">
+  </a>
 </p>
 
 - ✅ **Google IT Support Professional Certificate** — Google / Coursera
 - ✅ **Meta Front-End Developer Professional Certificate** — Meta / Coursera
 - ✅ **Microsoft Applied Skills: Administer Active Directory Domain Services** — Microsoft Learn
+- ✅ **Networking Basics** — Cisco / Credly
 - 🔄 **CompTIA A+ Core 1 and Core 2** — target: October 2026
 
 ---
